@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "meenakshi",
+    "password": "MySQL@123",
+    "database": "user_registration_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "meenakshi",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "meenakshi",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
